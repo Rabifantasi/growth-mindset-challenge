@@ -36,9 +36,6 @@ Upload File	Clean & Convert	Download Output
 ✔ Upload CSV & Excel files
 ✔ Data preview (first 5 rows)
 ✔ Remove duplicates
-✔ Fill missing values (numerical columns)
-✔ Column selection for processing
-✔ Simple data visualization (bar charts)
 ✔ Convert between CSV & Excel
 ✔ Download processed files
 
