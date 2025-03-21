@@ -15,28 +15,20 @@ All of this happens inside your browser—no coding required!
 
 🛠 Installation
 1️⃣ Clone the repository
-sh
-Copy
-Edit
+
 git clone https://github.com/your-username/data-sweeper.git
 cd data-sweeper
 2️⃣ Install dependencies
 Make sure you have Python 3.8+ installed, then run:
 
-sh
-Copy
-Edit
+
 pip install -r requirements.txt
 If you're working with Excel files, install openpyxl:
 
-sh
-Copy
-Edit
+
 pip install openpyxl
 3️⃣ Run the app
-sh
-Copy
-Edit
+
 streamlit run app.py
 📸 Screenshots
 Upload File	Clean & Convert	Download Output
